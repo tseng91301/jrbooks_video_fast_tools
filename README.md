@@ -1,8 +1,7 @@
-#Jrbooks Video Fast Tools
-#Editor：JingKai Tseng
-#For Desktop(Windows,Linux,MacOS) or other devices with phisical keyboard
-####################################################################################################
-#使用說明：
+#   Jrbooks Video Fast Tools
+#   Editor：JingKai Tseng
+#   For Desktop(Windows,Linux,MacOS) or other devices with phisical keyboard
+#   使用說明：
 #   初次使用：
 #       1.將上面plugin.min.js.copy.txt內容全選複製
 #       2.打開瀏覽器，新增書籤，書籤名稱自訂，好記就好，網址部分請將剛剛複製的內容全部貼上即可
@@ -23,4 +22,3 @@
 #           點幾次影片空白處(只要不是下面功能表列都可)
 #       2.在一般模式時按鍵後無反應：
 #           點幾次網頁空白處
-######################################################################################################
